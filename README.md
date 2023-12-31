@@ -15,7 +15,7 @@ The Java Virtual Keyboard with Swing is a graphical user interface application t
 
 [![Virtual Keyboard Demo](res/img.png)](res/demo1.mp4)
 
-Check out the [video demo](link_to_your_demo_video) to see the virtual keyboard in action.
+Check out the [video demo](res/demo1.mp4) to see the virtual keyboard 
 
 ## Installation
 
