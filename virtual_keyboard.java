@@ -220,7 +220,7 @@ public class virtual_keyboard extends JFrame implements ActionListener {
             txt = txt + " ";
 
         } else if (b.equals("BackSpace")) {
-            if (txt.length() > 1) {
+            if (txt.length() >=1) {
                 txt = txt.substring(0, txt.length() - 1);
             }
         } else if (b.equals("Shift")) {
